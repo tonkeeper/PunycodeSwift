@@ -32,7 +32,7 @@ Add the following to your `Package.swift` file.
 - macOS, iOS, tvOS, watchOS, visionOS, and Swift 5
     ```swift
     dependencies: [
-        .package(url: "https://github.com/gumob/PunycodeSwift.git", .upToNextMajor(from: "3.0.0"))
+        .package(url: "https://github.com/gumob/PunycodeSwift.git", .upToNextMajor(from: "3.0.1"))
     ]
     ```
 

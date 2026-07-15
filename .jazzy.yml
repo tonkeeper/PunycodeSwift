@@ -1,5 +1,5 @@
 module: Punycode
-version: 3.0.0
+version: 3.0.1
 
 author: Kojiro Futamura
 author_url: https://github.com/gumob
@@ -7,7 +7,7 @@ github_url: https://github.com/gumob/PunycodeSwift
 # copyright: 'Copyright © 2024 Kojiro Futamura. All rights reserved.'
 
 source_host_url: https://github.com/gumob/PunycodeSwift
-root_url: https://github.com/gumob/PunycodeSwift/tree/3.0.0/docs/
+root_url: https://github.com/gumob/PunycodeSwift/tree/3.0.1/docs/
 
 readme: "README.md"
 
